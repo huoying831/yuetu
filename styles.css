@@ -25,7 +25,7 @@ img {
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 500;
     font-size: medium;
-    background-color: rgb(238, 238, 238);
+    background-color: rgb(240, 236, 236);
 }
 
 .column {
@@ -78,4 +78,8 @@ nav a {
 
 .subtitle {
     text-align: left;
+}
+
+.about-article {
+    margin: 15px;
 }
