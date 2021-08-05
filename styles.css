@@ -35,6 +35,15 @@ img {
     text-align: center;
 }
 
+.image {
+    width: 90%;
+}
+
+.image-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
 .caption {
     text-align: center;
 }
