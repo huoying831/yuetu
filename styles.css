@@ -80,8 +80,9 @@ img {
 }
 
 article {
-    margin-right: 15px;
-    max-width: 70%;
+    width: auto;
+    margin-left: 5%;
+    margin-right: 5%;
 }
 
 
@@ -112,4 +113,16 @@ nav a {
 
 .article {
     margin: 10px 10px 10px 25px;
+}
+
+.paragraph {
+    text-align: justify;
+}
+
+footer {
+    border-top: darkgrey solid 1px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 20px;
+    padding: 10px;
 }
