@@ -1,7 +1,7 @@
 nav {
     width: 100vw;
     padding: 1vw;
-    font-weight: 500;
+    font-weight: 600;
     font-size: larger;
 }
 
@@ -123,8 +123,6 @@ nav a {
 
 footer {
     border-top: darkgrey solid 1px;
-    margin-left: 5%;
-    margin-right: 5%;
-    margin-top: 20px;
+    margin: 20px;
     padding: 10px;
 }
